@@ -1,4 +1,4 @@
-#!/home/andre/VsCode/p-value-atv03/venv/bin/python3
+#!/home/andre/VsCode/atividade-03-PPGCC-2025_1/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
